@@ -1,0 +1,14 @@
+# ---- Python ----
+__pycache__/
+
+# ---- Logs ----
+logs/
+Logs/
+*.log
+
+# ---- Runtime / cache / outputs ----
+eval_output/
+output/
+sandbox_cache/
+*.npz
+*missed.json
